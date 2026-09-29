@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tim Lin
 
-<!--
-**TimLin-1231/TimLin-1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Eng. in Autonomy & Robotics @ UIUC** (expected Dec 2027)
 
-Here are some ideas to get you started:
+I'm a graduate student working at the intersection of robotics, perception, and machine learning. Previously M.S. in Opto-Mechatronics Engineering and B.S. in Mechanical Engineering at National Central University, Taiwan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interests: robotics software, perception / computer vision, controls, autonomous systems
+- Currently: Computer Vision (CS543), Principles of Safe Autonomy (ECE484) @ UIUC
+- Tech: Python · C++ · TensorFlow/Keras · OpenCV · Arduino
+
+## Featured work
+- [battery_project](https://github.com/TimLin-1231/battery_project) — LSTM + transfer learning for Li-ion battery State-of-Health estimation (R² = 0.94)
+
+Contact: linting1231@gmail.com · [LinkedIn](https://www.linkedin.com/in/yu-ting-lin-641507286)
